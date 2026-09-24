@@ -278,6 +278,38 @@ a:focus-visible, *:focus-visible {
 }
 .footer p { margin: 0; }
 
+/* ---------- Collapsible Sections ---------- */
+.collapsible-section {
+  display: block;
+}
+
+.collapsible-section summary.section__label {
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.collapsible-section summary.section__label::-webkit-details-marker {
+  display: none;
+}
+
+.collapsible-section summary.section__label::after {
+  content: "+";
+  color: var(--accent);
+  margin-left: 0.5rem;
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.collapsible-section[open] summary.section__label::after {
+  content: "−";
+}
+
+.collapsible-section .internships {
+  padding-top: 12px;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   .page-controls { padding: 18px 18px 0; }
