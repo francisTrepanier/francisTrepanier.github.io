@@ -49,10 +49,13 @@ body {
   margin: 0;
   padding: 20px 28px 0;
   display: flex;
-  justify-content: flex-end;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
 }
 
-.theme-toggle {
+.theme-toggle,
+.lang-toggle {
   appearance: none;
   border: 1px solid var(--hairline);
   background: var(--panel);
@@ -67,14 +70,20 @@ body {
   transition: transform 0.15s ease, border-color 0.15s ease, background-color 0.2s ease;
 }
 
-.theme-toggle:hover {
+.theme-toggle:hover,
+.lang-toggle:hover {
   border-color: var(--accent);
   transform: translateY(-1px);
 }
 
-.theme-toggle:focus-visible {
+.theme-toggle:focus-visible,
+.lang-toggle:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
+}
+
+.lang-toggle {
+  margin-top: 0;
 }
 
 a { color: var(--ink); text-decoration-color: var(--accent); text-underline-offset: 3px; }
