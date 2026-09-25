@@ -146,7 +146,7 @@
         "role": "Ingénieur logiciel, Lead technique — Mécatronique",
         "degree": "Baccalauréat en génie robotique · Spécialisation IA",
         "summaryLabel": "Résumé",
-        "summaryText": "Leader en ingénierie avec une spécialisation en intelligence artificielle et une solide base en systèmes évolutifs, automatisation et livraison interfonctionnelle. Expérience avérée en gestion d’équipes d’ingénierie, alignement des feuilles de route produit et optimisation des pipelines CI/CD pour accélérer le déploiement. Combine une expertise pratique en Python et C++ embarqué avec une approche stratégique de mentorat, qualité du code et efficacité opérationnelle dans des environnements rapides.",
+        "summaryText": "Leader en ingénierie avec une spécialisation en intelligence artificielle et une solide base en systèmes embarqués, automatisation et livraison interfonctionnelle. Expérience en leader d’équipes d’ingénierie, alignement des fonctionnalités de produit et optimisation des procédés CI/CD pour accélérer le déploiement. Combine une expertise pratique en Python et C++ embarqué avec une approche stratégique de mentorat, qualité du code et efficacité opérationnelle dans des environnements à développement rapide.",
         "experienceLabel": "Expérience professionnelle",
         "internshipsLabel": "Stages pertinents",
         "projectsLabel": "Projets marquants et réalisations",
@@ -178,11 +178,11 @@
                 "dept": "Mécatronique, BRP",
                 "meta": "Valcourt, QC · déc. 2025 — aujourd’hui",
                 "bullets": [
-                    "Dirigé et encadré un petit groupe d’ingénierie (3 développeurs, 1 stagiaire), en instaurant une culture d’excellence technique, d’examens de code rigoureux et de livraison continue.",
-                    "Piloté des initiatives interfonctionnelles sur plusieurs gammes de produits, agissant comme pont technique entre le produit, la conception et l’ingénierie pour éliminer les blocages et accélérer le lancement.",
-                    "Optimisé les pipelines Jenkins CI/CD sur plusieurs projets, réduisant les temps de déploiement et améliorant la fiabilité des builds et tests sur des architectures complexes.",
-                    "Rationalisé les opérations d’ingénierie avec Jira et Git/Bitbucket, définissant les feuilles de route stratégiques pour les livrables et outils internes.",
-                    "Supervisé la livraison technique de bout en bout des interfaces d’instrumentation numérique, en lançant des fonctionnalités à fort impact pour une large base de consommateurs."
+                    "Dirigé et encadré un groupe d’ingénierie (3 développeurs, 1 stagiaire), en instaurant une culture d’excellence technique, de revue de code rigoureux et de livraison continue.",
+                    "Piloté des initiatives interfonctionnelles sur plusieurs gammes de produits, agissant comme pont technique entre les produits, la conception et l’ingénierie pour éliminer les blocages et accélérer le lancement.",
+                    "Optimisé les pipelines Jenkins CI/CD sur plusieurs projets, réduisant les temps de déploiement et améliorant la fiabilité des \"builds\" et tests sur des architectures complexes.",
+                    "Normalisé les opérations d’ingénierie avec Jira et Git/Bitbucket, définissant les feuilles de route stratégiques pour les livrables et outils internes.",
+                    "Supervisé la livraison technique de A à Z de l'innterface des cadrans numériques, en lançant des fonctionnalités à fort impact pour une large base de consommateurs."
                 ]
             },
             {
@@ -190,11 +190,11 @@
                 "dept": "Mécatronique, BRP",
                 "meta": "Valcourt, QC · mars 2024 — aujourd’hui",
                 "bullets": [
-                    "Développé et validé des fonctionnalités logicielles embarquées pour clusters numériques en utilisant MATLAB/Simulink et QtForMCU (QML/C++).",
+                    "Développé et validé des fonctionnalités logicielles embarquées pour cadrans numériques en utilisant MATLAB/Simulink et QtForMCU (QML/C++).",
                     "Créé et maintenu des scripts d’automatisation (Python, Shell, PowerShell) pour accélérer les tests et le déploiement.",
                     "Optimisé les pipelines Jenkins sur plusieurs projets pour réduire les temps de déploiement et améliorer la fiabilité des tests.",
-                    "Introduit des outils et normes internes au sein de l’équipe et des équipes transversales, améliorant l’intégration, la maintenabilité du code et le temps de résolution des bogues.",
-                    "Dirigé la validation de systèmes embarqués via essais en véhicule et analyse logicielle."
+                    "Introduit des outils et normes internes au sein de l’équipe et des équipes connexes, améliorant l’intégration, la maintenabilité du code et le temps de résolution des bugs.",
+                    "Dirigé la validation de fonctionnalités de systèmes embarqués via des essais en véhicule et analyse logicielle."
                 ]
             }
         ],
@@ -210,14 +210,14 @@
                 "title": "Stagiaire en automatisation",
                 "org": "IBM",
                 "meta": "Bromont, QC · Automne 2022",
-                "desc": "Conçu un robot de palettisation et un système de vision 3D avec une IHM sécuritaire personnalisée.",
+                "desc": "Conçu un robot de palettisation et un système de vision 3D avec une HMI sécuritaire personnalisée.",
                 "transfer": "Valeur transférable : automatisation, robotique, conception d’interface, vision, intégration temps réel"
             },
             {
                 "title": "Stagiaire R&D — Conception d’instruments neurochirurgicaux",
                 "org": "CHUS/3IT",
                 "meta": "Sherbrooke, QC · Hiver 2022",
-                "desc": "Conçu une carte PCB pour un implant intramédullaire visant à restaurer la marche chez des patients avec traumatisme médullaire.",
+                "desc": "Conçu un PCB pour un implant intramédullaire visant à restaurer le patron de marche chez des patients avec traumatisme médullaire.",
                 "transfer": "Valeur transférable : autonomie, efficacité, écoute, résolution créative dans des environnements contraints"
             },
             {
@@ -231,7 +231,7 @@
         "projects": [
             {
                 "title": "Imprimante 3D métallique autonome",
-                "text": "Conçue, construite et programmée; gestion de l’intégration complète matériel/logiciel."
+                "text": "Conçu, construit et programmé une imprimante 3D métallique autonome; gestion de l’intégration complète matériel/logiciel."
             },
             {
                 "title": "Systèmes CI/CD chez BRP",
@@ -239,11 +239,11 @@
             },
             {
                 "title": "Outil CAN + BLE",
-                "text": "Création d’une interface pour décoder la communication CAN propriétaire avec logique bit à bit et intégration BLE (C, C#)."
+                "text": "Création d’une interface pour décoder la communication CAN propriétaire avec opération logique de bit et intégration BLE (C, C#)."
             },
             {
                 "title": "Jeu procédural 3D",
-                "text": "Terrain généré automatiquement à partir du bruit de Perlin et de l’algorithme Marching Cubes."
+                "text": "Terrain généré automatiquement à partir de \"Perlin noise\" et de l’algorithme Marching Cubes."
             },
             {
                 "title": "Moto électrique EMUS",
@@ -279,7 +279,7 @@
                 "meta": "Décembre 2023 · Spécialisation en intelligence artificielle"
             },
             {
-                "title": "Diplôme d’études collégiales, technologie de génie mécanique",
+                "title": "Diplôme d’études collégiales, technique de génie mécanique",
                 "org": "Cégep de Trois-Rivières",
                 "meta": "Mai 2019 · Option fabrication"
             }
