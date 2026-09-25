@@ -1,0 +1,208 @@
+{
+  "en": {
+    "role": "Software Engineer, Tech Lead — Mechatronics",
+    "degree": "Bachelor's in Robotics Engineering · AI Specialization",
+    "summaryLabel": "Summary",
+    "summaryText": "Engineering leader with an artificial intelligence specialization and a strong foundation in scalable systems, automation, and cross-functional delivery. Proven track record managing engineering pods, aligning product roadmaps, and optimizing CI/CD pipelines to accelerate deployment. Combines hands-on technical expertise in Python and embedded C++ with a strategic focus on team mentorship, code quality, and operational efficiency in fast-paced environments.",
+    "experienceLabel": "Professional Experience",
+    "internshipsLabel": "Relevant Internships",
+    "projectsLabel": "Notable Projects & Accomplishments",
+    "skillsLabel": "Core Skills",
+    "educationLabel": "Education",
+    "footerText": "Last updated 2026",
+    "meta": [
+      { "label": "LOCATION", "value": "QC, Canada" },
+      { "label": "PHONE", "value": "On demand" },
+      { "label": "EMAIL", "value": "On demand" },
+      { "label": "LINKEDIN", "value": "Francis Trépanier", "href": "www.linkedin.com/in/francis-trepanier-engineering" }
+    ],
+    "jobs": [
+      {
+        "title": "Software Engineer, Tech Lead",
+        "dept": "Mechatronics, BRP",
+        "meta": "Valcourt, QC · Dec 2025 — Present",
+        "bullets": [
+          "Led and mentored a focused engineering pod (3 developers, 1 intern), establishing a culture of technical excellence, rigorous code reviews, and continuous delivery.",
+          "Spearheaded cross-functional initiatives across multiple product lines, acting as the technical bridge between product, design, and engineering to eliminate blockers and accelerate time-to-market.",
+          "Optimized Jenkins CI/CD pipelines across multiple projects, reducing deployment times and improving build/test reliability for complex system architectures.",
+          "Streamlined engineering operations using Jira and Git/Bitbucket, defining strategic roadmaps for future deliverables and internal tools.",
+          "Directed end-to-end technical delivery of digital instrument cluster UIs, launching high-visibility features for a large-scale consumer base."
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "dept": "Mechatronics, BRP",
+        "meta": "Valcourt, QC · Mar 2024 — Present",
+        "bullets": [
+          "Developed and reviewed embedded application features for digital clusters using MATLAB/Simulink and QtForMCU (QML/C++).",
+          "Built and maintained automation scripts (Python, Shell, PowerShell) to streamline testing and deployment.",
+          "Optimized Jenkins pipelines across multiple projects to reduce deployment times and improve build/test reliability.",
+          "Introduced internal tools and standards across the team and cross-functional teams, improving onboarding, code maintainability, and bug-triage time.",
+          "Led validation of embedded systems through in-vehicle testing and software analysis."
+        ]
+      }
+    ],
+    "internships": [
+      {
+        "title": "R&D Intern",
+        "org": "Michelin (Camso)",
+        "meta": "Magog, QC · Summer 2023",
+        "desc": "Improved endurance testing rigs, leading validation testing and failure analysis to deliver trustworthy engineering product-lifespan improvements.",
+        "transfer": "Transferable value: mechanical testing → system-level thinking"
+      },
+      {
+        "title": "Automation Intern",
+        "org": "IBM",
+        "meta": "Bromont, QC · Fall 2022",
+        "desc": "Designed a palletizing robot and 3D vision system with a custom safety-focused HMI.",
+        "transfer": "Transferable value: automation, robotics, UI design, vision, real-time system integration"
+      },
+      {
+        "title": "R&D Intern — Neurosurgical Instrument Design",
+        "org": "CHUS/3IT",
+        "meta": "Sherbrooke, QC · Winter 2022",
+        "desc": "Pioneered a PCB for an intramedullary implant aimed at restoring gait patterns in patients with spinal cord trauma.",
+        "transfer": "Transferable value: autonomy, efficiency, listening, creative problem-solving in constrained domains"
+      },
+      {
+        "title": "Software/Hardware Intern",
+        "org": "ArjoHuntleigh",
+        "meta": "Magog, QC · Summer 2021",
+        "desc": "Developed a CAN decoder interface (C#) and BLE communication on embedded systems (C).",
+        "transfer": "Transferable value: resourcefulness, autonomy, efficiency"
+      }
+    ],
+    "projects": [
+      { "title": "Autonomous 3D Metal Printer", "text": "Designed, built, and programmed a fully autonomous metal 3D printer; handled end-to-end hardware/software integration." },
+      { "title": "CI/CD Systems at BRP", "text": "Integrated CI/CD pipelines across multiple VMs, improving internal tool deployment and test automation workflows." },
+      { "title": "CAN + BLE Interface Tool", "text": "Built a custom interface to decode proprietary CAN communication with bit-level logic and BLE integration (C, C#)." },
+      { "title": "Procedural 3D Terrain Game", "text": "Auto-generated terrain using Perlin noise and the Marching Cubes algorithm." },
+      { "title": "EMUS Electric Motorcycle", "text": "Led 20+ engineering students to build a competition electric motorcycle in 18 months; managed agile workflows and system integration." },
+      { "title": "Screw Air Compressor", "text": "Designed and built a fully functioning screw compressor from scratch in 4 months." }
+    ],
+    "skills": [
+      { "category": "Languages", "items": "C++, QML (Qt), Python, Bash/PowerShell, Groovy (Jenkins), C, C#, JavaScript, HTML/CSS, VBA, MATLAB, Simulink" },
+      { "category": "Infrastructure & DevOps", "items": "CI/CD, Jenkins, Git/Bitbucket, automated testing, Agile workflows" },
+      { "category": "Domain Expertise", "items": "Engineering leadership, system architecture, cross-functional alignment, artificial intelligence, real-time systems, embedded systems, production-ready products" }
+    ],
+    "skillHeaders": {
+      "category": "Category",
+      "item": "Item"
+    },
+    "education": [
+      {
+        "title": "Bachelor's in Robotics Engineering",
+        "org": "University of Sherbrooke",
+        "meta": "December 2023 · Artificial Intelligence Specialization"
+      },
+      {
+        "title": "Diploma of College Studies, Mechanical Engineering Technology",
+        "org": "Cégep de Trois-Rivières",
+        "meta": "May 2019 · Manufacturing option"
+      }
+    ]
+  },
+  "fr": {
+    "role": "Ingénieur logiciel, Lead technique — Mécatronique",
+    "degree": "Baccalauréat en génie robotique · Spécialisation IA",
+    "summaryLabel": "Résumé",
+    "summaryText": "Leader en ingénierie avec une spécialisation en intelligence artificielle et une solide base en systèmes évolutifs, automatisation et livraison interfonctionnelle. Expérience avérée en gestion d’équipes d’ingénierie, alignement des feuilles de route produit et optimisation des pipelines CI/CD pour accélérer le déploiement. Combine une expertise pratique en Python et C++ embarqué avec une approche stratégique de mentorat, qualité du code et efficacité opérationnelle dans des environnements rapides.",
+    "experienceLabel": "Expérience professionnelle",
+    "internshipsLabel": "Stages pertinents",
+    "projectsLabel": "Projets marquants et réalisations",
+    "skillsLabel": "Compétences clés",
+    "educationLabel": "Formation",
+    "footerText": "Dernière mise à jour 2026",
+    "meta": [
+      { "label": "EMPLACEMENT", "value": "QC, Canada" },
+      { "label": "TÉLÉPHONE", "value": "Sur demande"},
+      { "label": "COURRIEL", "value": "Sur demande"},
+      { "label": "LINKEDIN", "value": "Francis Trépanier", "href": "www.linkedin.com/in/francis-trepanier-engineering" }
+    ],
+    "jobs": [
+      {
+        "title": "Ingénieur logiciel, Lead technique",
+        "dept": "Mécatronique, BRP",
+        "meta": "Valcourt, QC · déc. 2025 — aujourd’hui",
+        "bullets": [
+          "Dirigé et encadré un petit groupe d’ingénierie (3 développeurs, 1 stagiaire), en instaurant une culture d’excellence technique, d’examens de code rigoureux et de livraison continue.",
+          "Piloté des initiatives interfonctionnelles sur plusieurs gammes de produits, agissant comme pont technique entre le produit, la conception et l’ingénierie pour éliminer les blocages et accélérer le lancement.",
+          "Optimisé les pipelines Jenkins CI/CD sur plusieurs projets, réduisant les temps de déploiement et améliorant la fiabilité des builds et tests sur des architectures complexes.",
+          "Rationalisé les opérations d’ingénierie avec Jira et Git/Bitbucket, définissant les feuilles de route stratégiques pour les livrables et outils internes.",
+          "Supervisé la livraison technique de bout en bout des interfaces d’instrumentation numérique, en lançant des fonctionnalités à fort impact pour une large base de consommateurs."
+        ]
+      },
+      {
+        "title": "Ingénieur logiciel",
+        "dept": "Mécatronique, BRP",
+        "meta": "Valcourt, QC · mars 2024 — aujourd’hui",
+        "bullets": [
+          "Développé et validé des fonctionnalités logicielles embarquées pour clusters numériques en utilisant MATLAB/Simulink et QtForMCU (QML/C++).",
+          "Créé et maintenu des scripts d’automatisation (Python, Shell, PowerShell) pour accélérer les tests et le déploiement.",
+          "Optimisé les pipelines Jenkins sur plusieurs projets pour réduire les temps de déploiement et améliorer la fiabilité des tests.",
+          "Introduit des outils et normes internes au sein de l’équipe et des équipes transversales, améliorant l’intégration, la maintenabilité du code et le temps de résolution des bogues.",
+          "Dirigé la validation de systèmes embarqués via essais en véhicule et analyse logicielle."
+        ]
+      }
+    ],
+    "internships": [
+      {
+        "title": "Stagiaire R&D",
+        "org": "Michelin (Camso)",
+        "meta": "Magog, QC · Été 2023",
+        "desc": "Amélioré les bancs d’essai d’endurance, en menant des validations et analyses de défaillance pour améliorer la durée de vie fiable des produits.",
+        "transfer": "Valeur transférable : essais mécaniques → pensée système"
+      },
+      {
+        "title": "Stagiaire en automatisation",
+        "org": "IBM",
+        "meta": "Bromont, QC · Automne 2022",
+        "desc": "Conçu un robot de palettisation et un système de vision 3D avec une IHM sécuritaire personnalisée.",
+        "transfer": "Valeur transférable : automatisation, robotique, conception d’interface, vision, intégration temps réel"
+      },
+      {
+        "title": "Stagiaire R&D — Conception d’instruments neurochirurgicaux",
+        "org": "CHUS/3IT",
+        "meta": "Sherbrooke, QC · Hiver 2022",
+        "desc": "Conçu une carte PCB pour un implant intramédullaire visant à restaurer la marche chez des patients avec traumatisme médullaire.",
+        "transfer": "Valeur transférable : autonomie, efficacité, écoute, résolution créative dans des environnements contraints"
+      },
+      {
+        "title": "Stagiaire logiciel / matériel",
+        "org": "ArjoHuntleigh",
+        "meta": "Magog, QC · Été 2021",
+        "desc": "Développé une interface de décodage CAN (C#) et une communication BLE sur systèmes embarqués (C).",
+        "transfer": "Valeur transférable : débrouillardise, autonomie, efficacité"
+      }
+    ],
+    "projects": [
+      { "title": "Imprimante 3D métallique autonome", "text": "Conçue, construite et programmée; gestion de l’intégration complète matériel/logiciel." },
+      { "title": "Systèmes CI/CD chez BRP", "text": "Intégration de pipelines CI/CD sur plusieurs machines virtuelles, améliorant le déploiement interne et l’automatisation des tests." },
+      { "title": "Outil CAN + BLE", "text": "Création d’une interface pour décoder la communication CAN propriétaire avec logique bit à bit et intégration BLE (C, C#)." },
+      { "title": "Jeu procédural 3D", "text": "Terrain généré automatiquement à partir du bruit de Perlin et de l’algorithme Marching Cubes." },
+      { "title": "Moto électrique EMUS", "text": "Dirigé plus de 20 étudiants pour construire une moto électrique compétitive en 18 mois; gestion agile et intégration système." },
+      { "title": "Compresseur à vis", "text": "Conçu et construit un compresseur à vis fonctionnel de A à Z en 4 mois." }
+    ],
+    "skills": [
+      { "category": "Langages", "items": "C++, QML (Qt), Python, Bash/PowerShell, Groovy (Jenkins), C, C#, JavaScript, HTML/CSS, VBA, MATLAB, Simulink" },
+      { "category": "Infrastructure & DevOps", "items": "CI/CD, Jenkins, Git/Bitbucket, tests automatisés, méthodes Agile" },
+      { "category": "Expertise de domaine", "items": "Leadership d’ingénierie, architecture système, alignement interfonctionnel, intelligence artificielle, systèmes temps réel, systèmes embarqués, produits prêts pour la production" }
+    ],
+    "skillHeaders": {
+      "category": "Catégorie",
+      "item": "Détail"
+    },
+    "education": [
+      {
+        "title": "Baccalauréat en génie robotique",
+        "org": "Université de Sherbrooke",
+        "meta": "Décembre 2023 · Spécialisation en intelligence artificielle"
+      },
+      {
+        "title": "Diplôme d’études collégiales, technologie de génie mécanique",
+        "org": "Cégep de Trois-Rivières",
+        "meta": "Mai 2019 · Option fabrication"
+      }
+    ]
+  }
+}
