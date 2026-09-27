@@ -215,6 +215,7 @@ a:focus-visible,
 /* ---------- Sections ---------- */
 .section {
   padding: 28px 0;
+  text-align: justify;
 }
 
 .section__label {
@@ -225,6 +226,7 @@ a:focus-visible,
   color: var(--steel-soft);
   margin: 0 0 16px;
   line-height: 1.2;
+  text-align: left;
 }
 
 .section__label::before {
