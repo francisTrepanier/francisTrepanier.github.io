@@ -37,7 +37,11 @@ function renderJobs(lang) {
           <p class="job__meta">${job.meta}</p>
         </div>
         <ul>
-          ${job.bullets.map((bullet) => `<li>${bullet}</li>`).join('')}
+          ${job.bullets.map((bullet, index) => {
+            const hoverInfo = job.bulletsHoverInfo?.[index];
+            const titleAttribute = hoverInfo?.trim() ? ` title="${hoverInfo}"` : '';
+            return `<li${titleAttribute}>${bullet}</li>`;
+          }).join('')}
         </ul>
       </div>
     </article>
